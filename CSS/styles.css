@@ -1,7 +1,10 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-color: rgb(25, 137, 147);    
+    background-color: rgb(25, 137, 147);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 article{
